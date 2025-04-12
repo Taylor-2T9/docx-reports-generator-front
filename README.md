@@ -1,50 +1,29 @@
-# Welcome to your Expo app 👋
+<h1 align="center">
+Gerador de Laudos DOCX - Mobile
+</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Introdução
+> Esse aplicativo é o front de um projeto de duas partes (server e front): o front coleta, via usuário, os campos variáveis para geração de laudos a partir de um modelo predefinido; o server, por sua vez, gera o laudo personalizado e envia para o aplicativo.
 
-## Get started
+## Tecnologias
+> Para este projeto, utilizei principalmente Expo, React-Native e Typescript.
+- Expo
+- React Native
+- Typescript
+---
 
-1. Install dependencies
+## Geração dos relatórios
+> Como informado na Introdução, a geração dos relatórios é feita pelo servidor.
+- [Clique aqui para acessar o projeto DOCX-reports-generator-server](https://github.com/Taylor-2T9/docx-reports-generator-server/)
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<div align="center">
+  <br/>
+  <br/>
+  <br/>
+    <div>
+      <h1>Open Source</h1>
+      <sub>Copyright © 2025 - <a href="https://github.com/taylor-2t9">Taylor de Oliveira</sub></a>
+    </div>
+    <br/>
+    👨‍💻🖥️
+  </div>
